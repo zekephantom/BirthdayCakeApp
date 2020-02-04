@@ -52,13 +52,13 @@
             android:orientation="vertical">
 
             <TextView
-                android:id="@+id/textView2"
+                android:id="@+id/textNumCandles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="How many candles?" />
 
             <SeekBar
-                android:id="@+id/seekBar5"
+                android:id="@+id/numCandles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:max="5"
@@ -72,7 +72,7 @@
             android:orientation="vertical">
 
             <Switch
-                android:id="@+id/switch1"
+                android:id="@+id/frosting"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:checked="true"
@@ -80,7 +80,7 @@
                 android:textOn="ON" />
 
             <Switch
-                android:id="@+id/switch2"
+                android:id="@+id/candles"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:checked="true"
@@ -94,13 +94,13 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/button"
+                android:id="@+id/blowout"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="blowout" />
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/goodbye"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="goodbye"
