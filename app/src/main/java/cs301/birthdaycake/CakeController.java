@@ -1,5 +1,8 @@
 package cs301.birthdaycake;
 
+import android.util.Log;
+import android.view.View;
+
 public class CakeController {
 
     private CakeView cakeView;
@@ -11,4 +14,8 @@ public class CakeController {
        cakemodel = view.getCakemodel();
     }
 
+    public void onClick(View view)
+    {
+
+    }
 }
