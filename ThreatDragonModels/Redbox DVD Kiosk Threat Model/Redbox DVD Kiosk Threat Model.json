@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Redbox DVD Kiosk Threat Model",
+    "owner": "Ezekiel Rafanan",
+    "description": "First threat modeling of RedBox DVD kiosk"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
